@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>fuqin</groupId>
   <artifactId>com.liu</artifactId>
-  <version>0.0.2-SNAPSHOT</version><!-- 132 -->
+  <version>0.0.2-SNAPSHOT</version><!-- 321 -->
+
   <packaging>pom</packaging>
 </project>
